@@ -6,4 +6,4 @@
 ![Screenshot (76)](https://github.com/rafliUntara/Lab4Web./assets/149237388/a80adbdd-1104-475f-a567-1093865aa720)
 ![Screenshot (77)](https://github.com/rafliUntara/Lab4Web./assets/149237388/6f4e7c70-afdf-473b-84e2-fb17666541d7)
 PENJELASAN :
-Pada tugas PHP Modular ini kita membuat sebuah contoh website yang terdiri dari beberapa komponen seperti HOME,ABAOUT,KONTAK,HEADER WESITE,FOOTER WEBSITE DLL. disini juga kita menggunakan apache pada Xampp untuk membuka localhost karena kita membuat folder nya di htdocs dan mengguanakn aplikasi VSCode. htaccess berguna untuk membuat routing pada file index.php
+Pada tugas PHP Modular ini kita membuat sebuah contoh website yang terdiri dari beberapa komponen seperti HOME,ABOUT,KONTAK,HEADER WEBSITE,FOOTER WEBSITE DLL. disini juga kita menggunakan apache pada Xampp untuk membuka localhost karena kita membuat folder nya di htdocs dan mengguanakn aplikasi VSCode. htaccess berguna untuk membuat routing pada file index.php
